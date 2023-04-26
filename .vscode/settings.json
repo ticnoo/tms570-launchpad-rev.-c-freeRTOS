@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "freertos_test.h": "c",
+        "freertostest.h": "c",
+        "os_semphr.h": "c",
+        "freertos.h": "c",
+        "os_task.h": "c"
+    }
+}
